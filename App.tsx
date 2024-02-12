@@ -4,7 +4,7 @@ import Login from './screen/login/login';
 
 export default function App() {
   return (
-    <View className="flex-1 items-center justify-center bg-red-500">
+    <View className="flex-1 items-center justify-center bg-violet-700">
      <Login/>
       <StatusBar style="auto" />
     </View>
