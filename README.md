@@ -1,4 +1,4 @@
-# AnonymoChat
+# Hood
 
 AnonymoChat is an anonymous chat application that prioritizes user privacy and secure communication. It allows users to engage in conversations without revealing their identities, creates open communication in a safe environment.
 
